@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Surface
+  - L1
+  - L2
+  - L3
+  - L4
+  - Coin
+  - Spikes
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: L1
+    uniqueID: 1255643559
+    locked: 0
+  - name: L2
+    uniqueID: 1820887993
+    locked: 0
+  - name: L3
+    uniqueID: 1489022811
+    locked: 0
+  - name: L4
+    uniqueID: 2608181003
+    locked: 0
